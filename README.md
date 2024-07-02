@@ -8,7 +8,7 @@ This code was implemented with Pytorch 1.0.1 (later versions may work), CUDA 9.0
 If you have a [Docker](https://www.docker.com/) environment, we strongly recommend you to pull our image as follows:
 
 ```shell
-docker pull registry.cn-hangzhou.aliyuncs.com/em_seg/v54_higra
+docker pull registry.cn-hangzhou.aliyuncs.com/em_seg/v54_higra:9.1
 ```
 Otherwise, please execute the following commands to ensure that the dependent software is installed
 ```shell
